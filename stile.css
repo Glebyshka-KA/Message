@@ -1,0 +1,28 @@
+header {
+    background-color: #1e293b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    padding-top: 5px;
+}
+
+header h1 {
+    margin-bottom: 5px;
+    font-size: 50px;
+}
+
+header p {
+    font-size: 25px;
+}
+
+header nav a {
+    color: rgb(1, 183, 183);
+}
+
+hr {
+    margin: none;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: none;
+    border-top: 1px solid #cbd5e1;
+}
